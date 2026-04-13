@@ -1,2 +1,2 @@
 # delivery-vivi-ads
-Projeto de entrega com lógica de fila, feedback visual (foco em personalidade e engajamanento por meio da Vivi) e sensorial, além da pequena narrativa cultural dos pratos 
+Projeto de entrega com lógica de fila, feedback sensorial: (Vivi, focando em personalidade e engajamamento) e o som suave e intenso. Além disso há a questão cultutal: a pequena narrativa da história dos pratos 
